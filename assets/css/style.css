@@ -1,0 +1,30 @@
+.center-middle {
+    left: 0;
+    line-height: 200px;
+    margin: auto;
+    margin-top: -100px;
+    position: absolute;
+    top: 7.5%;
+    width: 100%;
+    text-align: center;
+}
+
+.title{
+	font-size: 90px;
+	margin-top: -50px;
+	color: #F9687E;
+}
+
+.logo{
+	max-height: 65px;
+	max-width: 65px;
+}
+
+.red{
+	color: #F9687E;
+}
+
+.iphone{
+	max-height: 500px;
+	max-width:200px;
+}
